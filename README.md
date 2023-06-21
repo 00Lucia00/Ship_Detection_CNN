@@ -8,8 +8,6 @@ The plan is to create an image classification model using Convolutions for featu
 **A Convolutional Neural Network**, also known as CNN, is a class of neural networks that specializes in processing data that has a grid-like topology, such as an image. A digital image is a binary representation of visual data. CNN can recognize patterns and features in images by performing convolution and pooling operations on the input images to extract relevant information. 
 **Region-based CNNs** or regions with CNN features (R-CNNs) are also among many pioneering approaches of applying deep learning to object detection.To reduce region proposals without loss of accuracy, the faster R-CNN proposes to replace selective search with a region proposal network
 
-![image.png](attachment:5b3ada7a-fc63-4713-9dc5-c5d4841390f7.png) ![download.png](attachment:c03784f0-2c36-4143-96d8-0d53370356cf.png)
-
 **Summery of data set**
 
 [The Dataset](https://www.kaggle.com/datasets/rhammell/ships-in-satellite-imagery)
